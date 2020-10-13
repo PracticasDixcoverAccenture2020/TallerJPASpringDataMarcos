@@ -1,0 +1,13 @@
+Director_Pelicula:
+  - id_pelicula: 1
+    id_director: 1
+  - id_pelicula: 2
+    id_director: 2
+  - id_pelicula: 3
+    id_director: 1
+  - id_pelicula: 4
+    id_director: 3
+  - id_pelicula: 5
+    id_director: 4
+  - id_pelicula: 6
+    id_director: 4

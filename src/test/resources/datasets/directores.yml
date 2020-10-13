@@ -1,0 +1,13 @@
+Director:
+  - id: 1
+    nombre: "Ridley Scott"
+    nacionalidad: "Británica"
+  - id: 2
+    nombre: "Todd Phillips"
+    nacionalidad: "Estadounidense"
+  - id: 3
+    nombre: "Lee Unkrich"
+    nacionalidad: "Estadounidense"
+  - id: 4
+    nombre: "Christopher Nolan"
+    nacionalidad: "Británica"

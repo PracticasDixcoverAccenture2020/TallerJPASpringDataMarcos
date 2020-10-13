@@ -1,0 +1,23 @@
+Genero:
+  - id: 1
+    nombre: "Comedia"
+  - id: 2
+    nombre: "Drama"
+  - id: 3
+    nombre: "Acción"
+  - id: 4
+    nombre: "Aventuras"
+  - id: 5
+    nombre: "Terror"
+  - id: 6
+    nombre: "Romántico"
+  - id: 7
+    nombre: "Suspense"
+  - id: 8
+    nombre: "Histórico"
+  - id: 9
+    nombre: "Ciencia ficción"
+  - id: 10
+    nombre: "Infantil"
+  - id: 11
+    nombre: "Musical"

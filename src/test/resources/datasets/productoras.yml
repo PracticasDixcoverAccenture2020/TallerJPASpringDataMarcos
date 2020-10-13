@@ -1,0 +1,31 @@
+Productora:
+  - id: 1
+    nombre: "20th Century Fox"
+    pais: "EEUU"
+  - id: 2
+    nombre: "Warner Bros."
+    pais: "EEUU"
+  - id: 3
+    nombre: "Universal Pictures"
+    pais: "EEUU"
+  - id: 4
+    nombre: "Columbia Pictures"
+    pais: "EEUU"
+  - id: 5
+    nombre: "Walt Disney Pictures"
+    pais: "EEUU"
+  - id: 6
+    nombre: "Marvel Studios"
+    pais: "EEUU"
+  - id: 7
+    nombre: "Paramount Pictures"
+    pais: "EEUU"
+  - id: 8
+    nombre: "Dreamworks Animation"
+    pais: "EEUU"
+  - id: 9
+    nombre: "Disney-Pixar"
+    pais: "EEUU"
+  - id: 10
+    nombre: "New Line Cinema"
+    pais: "EEUU"

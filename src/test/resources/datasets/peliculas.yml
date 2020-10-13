@@ -1,0 +1,31 @@
+Pelicula:
+  - id: 1
+    titulo: "Marte"
+    sinopsis: "Durante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata, por lo que, tras haber dado por desaparecido y muerto al astronauta Mark Watney (Matt Damon), sus compañeros toman la decisión de irse."
+    genero_id: 9
+    productora: 1
+  - id: 2
+    titulo: "Joker"
+    sinopsis: "La pasión de Arthur Fleck, un hombre ignorado por la sociedad, es hacer reír a la gente. Sin embargo, una serie de trágicos sucesos harán que su visión del mundo se distorsione considerablemente convirtiéndolo en un brillante criminal."
+    genero_id: 2
+    productora: 2
+  - id: 3
+    titulo: "Alien: Covenant"
+    sinopsis: "Durante un viaje en el espacio rumbo a un remoto planeta al otro lado de la galaxia para colonizarlo, la tripulación de la nave 'Covenant' descubre una señal proveniente de lo que creen puede ser un paraíso inexplorado..."
+    genero_id: 5
+    productora: 1
+  - id: 4
+    titulo: "Coco"
+    sinopsis: "Un aspirante a músico se une al simpático timador Héctor (voz original de Gael García Bernal) en una extraordinaria aventura en la Tierra de los Muertos."
+    genero_id: 10
+    productora: 9
+  - id: 5
+    titulo: "Interestellar"
+    sinopsis: "Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper (McConaughey) y la científica Amelia (Hathaway) emprende una misión que puede ser la más importante de la historia de la humanidad."
+    genero_id: 9
+    productora: 7
+  - id: 6
+    titulo: "El hombre de acero"
+    sinopsis: "Desde Krypton, un bebé es enviado en una cápsula a través del espacio a la Tierra para que viva entre los humanos. Educado en una granja en Kansas el joven Clark Kent comienza desde niño a desarrollar poderes sobrehumanos."
+    genero_id: 9
+    productora: 2
